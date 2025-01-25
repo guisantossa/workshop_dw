@@ -15,6 +15,10 @@ requests = "^2.32.3"
 boto3 = "^1.36.4"
 pyarrow = "^19.0.0"
 python-dotenv = "^1.0.1"
+schedule = "^1.2.2"
+streamlit = "^1.41.1"
+openpyxl = "^3.1.5"
+pydantic = {extras = ["email"], version = "^2.10.6"}
 
 
 [build-system]
